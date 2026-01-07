@@ -33,19 +33,6 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 ## Key Information
 
 - **Transportation (covered):** Free charter bus between **Science Tokyo** and Karuizawa  
-
-&nbsp; - Depart: **morning of Mar 12**  
-
-&nbsp; - Return: **afternoon of Mar 14**  
-
-&nbsp; *(Shinkansen is optional at your own expense.)*
-
-- **Accommodation & meals (covered):** Two nights at the hotel including **breakfast & dinner**
-
-- **Tokyo pre/post stay (covered):** Accommodation in Tokyo on **Mar 11** and **Mar 14**
-
-- **Optional activities:** Half-day **skiing / cycling / shopping** on **Mar 13 morning** (self-funded)
-
 - **Talks:** Postdocs and PhD students: **30 minutes** per presentation
 
 
