@@ -54,41 +54,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 
 
-## Travel Support (Important)
-
-- Up to **JPY 800,000 per group** (primarily for flights).
-
-- You may be able to bring **one additional colleague** within this budget.
-
-- If total cost exceeds **JPY 800,000**, please cover the difference using your own budget.
-
-- Even for accompanying colleagues, **workshop fees will be covered**.
-
-
-
-### Stopover policy (example)
-
-We can support **a round-trip flight to Tokyo with one stopover**, e.g.  
-
-**Germany → Tokyo → Korea (IEEE VR) → Germany**
-
-
-
-> Note: We cannot support all accommodation or flights to/from Okinawa.  
-
-> Related conferences after the workshop include:
-
-> - Augmented Humans (Okinawa): **Mar 16–19**
-
-> - IEEE VR (Korea): **Mar 21–25**
-
-
-
----
-
-
-
-## Program (Draft)
+## Program (Draft， TBA)
 
 > The schedule below is a draft. We will update times/titles once all travel plans are confirmed.
 
