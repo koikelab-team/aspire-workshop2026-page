@@ -6,13 +6,13 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 
 
 
-\# ASPIRE Workshop 2026 (Karuizawa)
+# ASPIRE Workshop 2026 (Karuizawa)
 
-\*\*Dates:\*\* March 12–14, 2026  
+**Dates:** March 12–14, 2026  
 
-\*\*Venue:\*\* Karuizawa Prince Hotel, Karuizawa, Japan  
+**Venue:** Karuizawa Prince Hotel, Karuizawa, Japan  
 
-\*\*Host:\*\* Science Tokyo (Koike Lab)  
+**Host:** Science Tokyo (Koike Lab)  
 
 
 
@@ -20,7 +20,7 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 
 
 
-\## Overview
+## Overview
 
 The ASPIRE Workshop brings together participating groups to share recent research progress and discuss next-step collaborations.
 
@@ -30,23 +30,23 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 
 
-\## Key Information
+## Key Information
 
-\- \*\*Transportation (covered):\*\* Free charter bus between \*\*Science Tokyo\*\* and Karuizawa  
+- **Transportation (covered):** Free charter bus between **Science Tokyo** and Karuizawa  
 
-&nbsp; - Depart: \*\*morning of Mar 12\*\*  
+&nbsp; - Depart: **morning of Mar 12**  
 
-&nbsp; - Return: \*\*afternoon of Mar 14\*\*  
+&nbsp; - Return: **afternoon of Mar 14**  
 
-&nbsp; \*(Shinkansen is optional at your own expense.)\*
+&nbsp; *(Shinkansen is optional at your own expense.)*
 
-\- \*\*Accommodation \& meals (covered):\*\* Two nights at the hotel including \*\*breakfast \& dinner\*\*
+- **Accommodation & meals (covered):** Two nights at the hotel including **breakfast & dinner**
 
-\- \*\*Tokyo pre/post stay (covered):\*\* Accommodation in Tokyo on \*\*Mar 11\*\* and \*\*Mar 14\*\*
+- **Tokyo pre/post stay (covered):** Accommodation in Tokyo on **Mar 11** and **Mar 14**
 
-\- \*\*Optional activities:\*\* Half-day \*\*skiing / cycling / shopping\*\* on \*\*Mar 13 morning\*\* (self-funded)
+- **Optional activities:** Half-day **skiing / cycling / shopping** on **Mar 13 morning** (self-funded)
 
-\- \*\*Talks:\*\* Postdocs and PhD students: \*\*30 minutes\*\* per presentation
+- **Talks:** Postdocs and PhD students: **30 minutes** per presentation
 
 
 
@@ -54,23 +54,23 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 
 
-\## Travel Support (Important)
+## Travel Support (Important)
 
-\- Up to \*\*JPY 800,000 per group\*\* (primarily for flights).
+- Up to **JPY 800,000 per group** (primarily for flights).
 
-\- You may be able to bring \*\*one additional colleague\*\* within this budget.
+- You may be able to bring **one additional colleague** within this budget.
 
-\- If total cost exceeds \*\*JPY 800,000\*\*, please cover the difference using your own budget.
+- If total cost exceeds **JPY 800,000**, please cover the difference using your own budget.
 
-\- Even for accompanying colleagues, \*\*workshop fees will be covered\*\*.
+- Even for accompanying colleagues, **workshop fees will be covered**.
 
 
 
-\### Stopover policy (example)
+### Stopover policy (example)
 
-We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.  
+We can support **a round-trip flight to Tokyo with one stopover**, e.g.  
 
-\*\*Germany → Tokyo → Korea (IEEE VR) → Germany\*\*
+**Germany → Tokyo → Korea (IEEE VR) → Germany**
 
 
 
@@ -78,9 +78,9 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 > Related conferences after the workshop include:
 
-> - Augmented Humans (Okinawa): \*\*Mar 16–19\*\*
+> - Augmented Humans (Okinawa): **Mar 16–19**
 
-> - IEEE VR (Korea): \*\*Mar 21–25\*\*
+> - IEEE VR (Korea): **Mar 21–25**
 
 
 
@@ -88,13 +88,13 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 
 
-\## Program (Draft)
+## Program (Draft)
 
 > The schedule below is a draft. We will update times/titles once all travel plans are confirmed.
 
 
 
-\### Day 1 — Thu, Mar 12
+### Day 1 — Thu, Mar 12
 
 | Time | Session |
 
@@ -102,9 +102,9 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 | Morning | Bus departs from Science Tokyo (details TBA) |
 
-| Midday | Arrival \& check-in |
+| Midday | Arrival & check-in |
 
-| 13:00–13:15 | Welcome \& opening |
+| 13:00–13:15 | Welcome & opening |
 
 | 13:15–15:15 | Research talks (30 min each) |
 
@@ -112,11 +112,11 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 | 15:30–17:30 | Research talks (30 min each) |
 
-| Evening | Dinner \& informal discussions |
+| Evening | Dinner & informal discussions |
 
 
 
-\### Day 2 — Fri, Mar 13
+### Day 2 — Fri, Mar 13
 
 | Time | Session |
 
@@ -134,13 +134,13 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 
 
-\### Day 3 — Sat, Mar 14
+### Day 3 — Sat, Mar 14
 
 | Time | Session |
 
 |---|---|
 
-| 09:30–11:30 | Wrap-up \& next steps |
+| 09:30–11:30 | Wrap-up & next steps |
 
 | Noon | Check-out |
 
@@ -152,37 +152,37 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 
 
-\## Attendees
+## Attendees
 
 > Please list names only with permission. You can also list only affiliations or group names if preferred.
 
 
 
-\### Participating Groups
+### Participating Groups
 
-\- \*\*Science Tokyo (Host):\*\* Koike Lab
+- **Science Tokyo (Host):** Koike Lab
 
-\- \*\*Group:\*\* \_\_\_\_\_\_\_\_\_\_
+- **Group:** __________
 
-\- \*\*Group:\*\* \_\_\_\_\_\_\_\_\_\_
+- **Group:** __________
 
-\- \*\*Group:\*\* \_\_\_\_\_\_\_\_\_\_
-
-
-
-\### Faculty / PIs
-
-\- Prof. \_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_)
-
-\- Prof. \_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_)
+- **Group:** __________
 
 
 
-\### Postdocs / PhD Students (Presenters)
+### Faculty / PIs
 
-\- \_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_) — \*Talk title (TBA)\*
+- Prof. __________ (__________)
 
-\- \_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_) — \*Talk title (TBA)\*
+- Prof. __________ (__________)
+
+
+
+### Postdocs / PhD Students (Presenters)
+
+- __________ (__________) — *Talk title (TBA)*
+
+- __________ (__________) — *Talk title (TBA)*
 
 
 
@@ -190,11 +190,11 @@ We can support \*\*a round-trip flight to Tokyo with one stopover\*\*, e.g.
 
 
 
-\## Schedule Submission
+## Schedule Submission
 
 Please fill out the travel schedule (including accompanying colleagues) as soon as possible:  
 
-\*\*Google Spreadsheet:\*\* https://docs.google.com/spreadsheets/d/1cDmefA2dfR6kWX-LwGPoxOOAO0UuB8GndQwXJYg8\_Yg/edit?usp=sharing
+**Google Spreadsheet:** https://docs.google.com/spreadsheets/d/1cDmefA2dfR6kWX-LwGPoxOOAO0UuB8GndQwXJYg8_Yg/edit?usp=sharing
 
 
 
@@ -202,15 +202,15 @@ Please fill out the travel schedule (including accompanying colleagues) as soon 
 
 
 
-\## Contact
+## Contact
 
 For questions, please contact:  
 
-\*\*Prof. Hideki Koike / Organizing team\*\* (Science Tokyo)
+**Prof. Hideki Koike / Organizing team** (Science Tokyo)
 
 
 
-\_Last updated: Jan 2026\_
+_Last updated: Jan 2026_
 
 
 
