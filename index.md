@@ -12,7 +12,7 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 
 **Venue:** Karuizawa Prince Hotel, Karuizawa, Japan  
 
-**Host:** JST ASPIRE
+**Host:** Koike Lab (Institute of Science Tokyo)
 
 
 
