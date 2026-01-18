@@ -2,4 +2,7 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 description: "Mar 12–14, 2026 · Karuizawa Prince Hotel · JST Aspire Funded"
 theme: jekyll-theme-cayman
 markdown: kramdown
+
 show_downloads: false
+github:
+  is_project_page: false
