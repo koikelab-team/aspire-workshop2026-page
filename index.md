@@ -39,7 +39,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 
 
-## Program (Draft， TBA)
+## Program (Draft)
 
 > The schedule below is a draft. We will update times/titles once all travel plans are confirmed.
 
