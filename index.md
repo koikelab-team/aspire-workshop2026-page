@@ -53,11 +53,12 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 |------|---------|
 | Morning | Bus departs from Science Tokyo (details TBA) |
 | Midday | Arrival & check-in |
-| 13:00–13:15 | Welcome & opening |
-| 13:15–15:15 | Research talks (30 min each) |
-| 15:15–15:30 | Break |
-| 15:30–17:30 | Research talks (30 min each) |
-| Evening | Dinner & informal discussions |
+| 12:30–13:30 | Welcome Session |
+| 13:30–13:45 | Opening Talk by Prof.Koike |
+| 13:45–15:15 | Research Talks (Speaker TBD) |
+| 15:15–15:30 | Coffee Breaks |
+| 15:30–17:15 | Research Talks (Speaker TBD) |
+
 
 
 
@@ -66,10 +67,12 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 | Time | Session |
 |------|---------|
 | Morning | Optional activities (self-funded) |
-| 13:00–15:00 | Research talks (30 min each) |
-| 15:00–15:30 | Break |
-| 15:30–17:00 | Collaboration planning / breakouts |
-| Evening | Dinner |
+| 13:30–14:00 | Keynote Talk by TBD |
+| 14:00–15:30 | Research Talks (Speaker TBD) |
+| 15:30–15:45 | Coffee Breaks |
+| 15:45–17:15 | Research Talks (Speaker TBD) |
+| 17:15–18:00 | Breaks |
+| 18:00-21:00 | Evening Session: Free Discussion |
 
 
 
@@ -78,7 +81,11 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 | Time | Session |
 |------|---------|
-| 09:30–11:30 | Wrap-up & next steps |
+| 08:30–09:00 | Keynote Talk by TBD |
+| 09:00–10:30 | Research Talks (Speaker TBD) |
+| 10:30–10:45 | Research Talks (Speaker TBD) |
+| 10:45–12:15 | Research Talks (Speaker TBD) |
+| 12:15–12:30 | Wrap-up & Closing |
 | Noon | Check-out |
 | Afternoon | Bus returns to Tokyo (details TBA) |
 
@@ -93,7 +100,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 - Prof. __________ (__________)
 
-
+- Prof. __________ (__________)
 
 ---
 
