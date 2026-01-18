@@ -50,21 +50,13 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 ### Day 1 — Thu, Mar 12
 
 | Time | Session |
-
-|---|---|
-
+|------|---------|
 | Morning | Bus departs from Science Tokyo (details TBA) |
-
 | Midday | Arrival & check-in |
-
 | 13:00–13:15 | Welcome & opening |
-
 | 13:15–15:15 | Research talks (30 min each) |
-
 | 15:15–15:30 | Break |
-
 | 15:30–17:30 | Research talks (30 min each) |
-
 | Evening | Dinner & informal discussions |
 
 
@@ -72,58 +64,30 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 ### Day 2 — Fri, Mar 13
 
 | Time | Session |
-
-|---|---|
-
+|------|---------|
 | Morning | Optional activities (self-funded) |
-
 | 13:00–15:00 | Research talks (30 min each) |
-
 | 15:00–15:30 | Break |
-
 | 15:30–17:00 | Collaboration planning / breakouts |
-
 | Evening | Dinner |
+
 
 
 
 ### Day 3 — Sat, Mar 14
 
 | Time | Session |
-
-|---|---|
-
+|------|---------|
 | 09:30–11:30 | Wrap-up & next steps |
-
 | Noon | Check-out |
-
 | Afternoon | Bus returns to Tokyo (details TBA) |
 
 
-
 ---
 
 
 
-## Attendees
-
-> Please list names only with permission. You can also list only affiliations or group names if preferred.
-
-
-
-### Participating Groups
-
-- **Science Tokyo (Host):** Koike Lab
-
-- **Group:** __________
-
-- **Group:** __________
-
-- **Group:** __________
-
-
-
-### Faculty / PIs
+## Attendees (TBA)
 
 - Prof. __________ (__________)
 
@@ -131,27 +95,9 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 
 
-### Postdocs / PhD Students (Presenters)
-
-- __________ (__________) — *Talk title (TBA)*
-
-- __________ (__________) — *Talk title (TBA)*
-
-
-
 ---
 
 
-
-## Schedule Submission
-
-Please fill out the travel schedule (including accompanying colleagues) as soon as possible:  
-
-**Google Spreadsheet:** https://docs.google.com/spreadsheets/d/1cDmefA2dfR6kWX-LwGPoxOOAO0UuB8GndQwXJYg8_Yg/edit?usp=sharing
-
-
-
----
 
 
 
