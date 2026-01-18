@@ -12,7 +12,7 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 
 **Venue:** Karuizawa Prince Hotel, Karuizawa, Japan  
 
-**Host:** Science Tokyo (Koike Lab)  
+**Host:** JST ASPIRE
 
 
 
@@ -32,10 +32,8 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 ## Key Information
 
-- **Transportation (covered):** Free charter bus between **Science Tokyo** and Karuizawa  
-- **Talks:** Postdocs and PhD students: **30 minutes** per presentation
-
-
+- **Transportation:** Free charter bus between **Institute of Science Tokyo** and **Karuizawa Prince Hotel**
+- **Talks:** Postdocs and Students: **15 min presentation + 5 min Q&A**
 
 ---
 
@@ -83,7 +81,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 |------|---------|
 | 08:30–09:00 | Keynote Talk by TBD |
 | 09:00–10:30 | Research Talks (Speaker TBD) |
-| 10:30–10:45 | Research Talks (Speaker TBD) |
+| 10:30–10:45 | Coffee Breaks |
 | 10:45–12:15 | Research Talks (Speaker TBD) |
 | 12:15–12:30 | Wrap-up & Closing |
 | Noon | Check-out |
