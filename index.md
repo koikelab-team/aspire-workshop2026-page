@@ -54,7 +54,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 | 12:30–13:30 | Welcome Session |
 | 13:30–13:45 | Opening Talk by Prof.Koike |
 | 13:45–15:15 | Research Talks (Speaker TBD) |
-| 15:15–15:30 | Coffee Breaks |
+| 15:15–15:30 | Coffee Break |
 | 15:30–17:15 | Research Talks (Speaker TBD) |
 
 
@@ -64,12 +64,13 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 | Time | Session |
 |------|---------|
-| Morning | Optional activities (self-funded) |
+| 09:00-12:00 | Morning Session: Individual Discussion |
+| 12:00-13:30 | Lunch Break |
 | 13:30–14:00 | Keynote Talk by TBD |
 | 14:00–15:30 | Research Talks (Speaker TBD) |
-| 15:30–15:45 | Coffee Breaks |
+| 15:30–15:45 | Coffee Break |
 | 15:45–17:15 | Research Talks (Speaker TBD) |
-| 17:15–18:00 | Breaks |
+| 17:15–18:00 | Break |
 | 18:00-21:00 | Evening Session: Free Discussion |
 
 
@@ -81,7 +82,7 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 |------|---------|
 | 08:30–09:00 | Keynote Talk by TBD |
 | 09:00–10:30 | Research Talks (Speaker TBD) |
-| 10:30–10:45 | Coffee Breaks |
+| 10:30–10:45 | Coffee Break |
 | 10:45–12:15 | Research Talks (Speaker TBD) |
 | 12:15–12:30 | Wrap-up & Closing |
 | Noon | Check-out |
