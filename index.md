@@ -32,9 +32,10 @@ The ASPIRE Workshop brings together participating groups to share recent researc
 
 ## Key Information
 
-- **Transportation:** Free charter bus between **Institute of Science Tokyo** and **Karuizawa Prince Hotel**
-- **Talks:** Postdocs and Students: **15 min presentation + 5 min Q&A**
-
+- **Transportation:** Free charter bus between **Institute of Science Tokyo (Ookayama Campus)** and **Karuizawa Prince Hotel**
+- **Talks:** Postdocs and students: 15 min presentation + 5 min Q&A
+- **Accommodation:** For better communication, all participants will be staying at **Karuizawa Prince Hotel West**. Single Room: 64,300 JPY / 2 nights, Double Room: 79,800 JPY / 2 nights.
+- **Night Session:** The night discussion session will be charged separately, approximately 16,000 JPY per person.
 ---
 
 
