@@ -31,7 +31,7 @@ The ASPIRE Workshop is an annual gathering that provides a unique platform for p
 - **Accommodation:** All participants will stay at Karuizawa Prince Hotel West to facilitate networking and collaboration
   - Single Room: ¥64,300 / 2 nights
   - Double Room: ¥79,800 / 2 nights
-- **Evening Session:** Night discussion session (approximately ¥16,000 per person, charged separately)
+- **Evening Session:** Night discussion session on March.13 (approximately ¥16,000 per person, charged separately)
 - **Language:** Presentations and discussions will be conducted in English
 
 </div>
@@ -84,81 +84,15 @@ The ASPIRE Workshop is an annual gathering that provides a unique platform for p
 
 ---
 
-## Venue & Location
+## Contact
 
-### Karuizawa Prince Hotel West
+<div class="contact-section" markdown="1">
 
-Karuizawa is a beautiful resort town located in Nagano Prefecture, known for its cool summer climate, stunning natural scenery, and rich cultural heritage. The Karuizawa Prince Hotel offers world-class facilities in a serene mountain setting, providing the perfect environment for focused academic discussions.
+**Hideki Koike:** [koike@c.titech.ac.jp](mailto:koike@c.titech.ac.jp)
 
-<div class="image-gallery">
-  <div class="image-placeholder">
-    [Venue Photo 1]<br>
-    Karuizawa Prince Hotel
-  </div>
-  <div class="image-placeholder">
-    [Venue Photo 2]<br>
-    Conference Room
-  </div>
-  <div class="image-placeholder">
-    [Venue Photo 3]<br>
-    Karuizawa Town
-  </div>
+**Erwin Wu:** [wu.e.aa@m.titech.ac.jp](mailto:wu.e.aa@m.titech.ac.jp)
+
 </div>
-
-**Access Information:**
-- Approximately 70 minutes by train from Tokyo Station to Karuizawa Station (Hokuriku Shinkansen)
-- Charter bus will be provided from Institute of Science Tokyo (Ookayama Campus)
-
----
-
-## Confirmed Attendees
-
-Participant list will be updated as registrations are confirmed.
-
-- Prof. __________ (__________)
-- Prof. __________ (__________)
-- Prof. __________ (__________)
-
----
-
-## Partners & Sponsors
-
-<div class="logo-container">
-  <div class="logo-placeholder">
-    Institute of Science Tokyo Logo
-  </div>
-  <div class="logo-placeholder">
-    JST ASPIRE Logo
-  </div>
-  <div class="logo-placeholder">
-    Partner Institution Logo
-  </div>
-  <div class="logo-placeholder">
-    Sponsor Logo
-  </div>
-</div>
-
----
-
-## Contact Information
-
-<div class="contact-grid">
-  <div class="contact-card">
-    <strong>Prof. Hideki Koike</strong>
-    <p>Workshop Chair<br>
-    Institute of Science Tokyo</p>
-    <a href="mailto:koike@c.titech.ac.jp">koike@c.titech.ac.jp</a>
-  </div>
-
-  <div class="contact-card">
-    <strong>Erwin Wu</strong>
-    <p>Workshop Coordinator<br>
-    Institute of Science Tokyo</p>
-    <a href="mailto:wu.e.aa@m.titech.ac.jp">wu.e.aa@m.titech.ac.jp</a>
-  </div>
-</div>
-
-For general inquiries about the workshop, please contact any of the organizers above.
 
 ---
 

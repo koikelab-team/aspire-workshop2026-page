@@ -34,9 +34,11 @@
 
 .project-tagline {
   font-size: 1.3rem;
-  font-weight: 400;
-  opacity: 0.95;
+  font-weight: 500;
+  opacity: 1;
   margin-top: 1rem;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  color: #ffffff;
 }
 
 /* Main Content Area */
@@ -143,6 +145,12 @@ table {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  table-layout: fixed;
+}
+
+table th:first-child,
+table td:first-child {
+  width: 25%;
 }
 
 thead {
@@ -174,7 +182,7 @@ tbody tr:hover {
 /* Section Headers */
 h2 {
   color: var(--primary-blue);
-  border-bottom: 3px solid var(--accent-blue);
+  border-bottom: 3px solid var(--primary-blue);
   padding-bottom: 0.5rem;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
@@ -244,42 +252,18 @@ h3 {
 }
 
 /* Contact Section */
-.contact-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+.contact-section {
   margin: 2rem 0;
+  line-height: 2;
 }
 
-.contact-card {
-  background: white;
-  border: 2px solid var(--border-color);
-  border-radius: 8px;
-  padding: 1.5rem;
-  text-align: center;
-  transition: all 0.3s;
+.contact-section p {
+  margin: 0.5rem 0;
 }
 
-.contact-card:hover {
-  border-color: var(--accent-blue);
-  box-shadow: 0 4px 12px rgba(30, 80, 144, 0.15);
-}
-
-.contact-card strong {
-  display: block;
+.contact-section strong {
   color: var(--primary-blue);
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
-}
-
-.contact-card a {
-  color: var(--accent-blue);
-  text-decoration: none;
-  word-break: break-all;
-}
-
-.contact-card a:hover {
-  text-decoration: underline;
+  font-weight: 600;
 }
 
 /* Footer */
