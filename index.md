@@ -38,14 +38,13 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 
 | Time | Session |
 |------|---------|
-| 9:30 | Charter bus departs from Science Tokyo |
-| 11:00–12:30 | Arrival & check-in at Karuizawa Prince Hotel |
+| 9:30- | Charter bus departs from Science Tokyo |
+| 12:00–12:30 | Arrival & check-in at Karuizawa Prince Hotel |
 | 12:30–13:30 | Welcome Lunch & Registration |
 | 13:30–13:45 | **Opening Remarks** — Prof. Hideki Koike |
 | 13:45–15:15 | **Session 1: Research Presentations** (TBD) |
 | 15:15–15:30 | Coffee Break |
-| 15:30–17:15 | **Session 2: Research Presentations** (TBD) |
-| 18:00–20:00 | Welcome Dinner & Networking |
+| 15:30–17:30 | **Session 2: Research Presentations** (TBD) |
 
 ### Day 2 — Friday, March 13
 
@@ -56,7 +55,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 | 13:30–14:00 | **Keynote Talk** (Speaker TBD) |
 | 14:00–15:30 | **Session 3: Research Presentations** (TBD) |
 | 15:30–15:45 | Coffee Break |
-| 15:45–17:15 | **Session 4: Research Presentations** (TBD) |
+| 15:45–17:30 | **Session 4: Research Presentations** (TBD) |
 | 17:15–18:00 | Break & Free Time |
 | 18:00–21:00 | **Evening Session:** Free Discussion & Networking Dinner |
 
@@ -70,7 +69,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 | 10:45–12:15 | **Session 6: Final Presentations** (TBD) |
 | 12:15–12:30 | **Closing Remarks** & Group Photo |
 | 12:30–13:30 | Farewell Lunch |
-| Afternoon | Charter bus returns to Tokyo (time TBA) |
+| 13:30- | Charter bus returns to Tokyo (time TBA) |
 
 ---
 
