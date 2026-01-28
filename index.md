@@ -38,7 +38,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 
 | Time | Session |
 |------|---------|
-| Morning | Charter bus departs from Science Tokyo (time TBA) |
+| 9:30 | Charter bus departs from Science Tokyo |
 | 11:00–12:30 | Arrival & check-in at Karuizawa Prince Hotel |
 | 12:30–13:30 | Welcome Lunch & Registration |
 | 13:30–13:45 | **Opening Remarks** — Prof. Hideki Koike |
@@ -83,8 +83,6 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 **Erwin Wu:** [wu.e.aa@m.titech.ac.jp](mailto:wu.e.aa@m.titech.ac.jp)
 
 </div>
-
----
 
 <div class="site-footer">
   <p><strong>ASPIRE Workshop 2026</strong> · Hosted by Koike Lab, Institute of Science Tokyo</p>
