@@ -6,19 +6,9 @@ title: "ASPIRE Workshop 2026 (Karuizawa)"
 
 ## Welcome to ASPIRE Workshop 2026
 
-**Dates:** March 12–14, 2026
-**Venue:** Karuizawa Prince Hotel, Karuizawa, Japan
-**Host:** Koike Lab, Institute of Science Tokyo
-
 The ASPIRE Workshop brings together leading researchers and participating groups to share recent progress, foster collaboration, and advance cutting-edge research in our field.
 
 </div>
-
----
-
-## Overview
-
-The ASPIRE Workshop is an annual gathering that provides a unique platform for postdoctoral researchers, students, and faculty members from participating institutions to present their latest findings, engage in meaningful discussions, and establish collaborative partnerships. Set in the beautiful mountain resort town of Karuizawa, this year's workshop promises three days of intensive academic exchange in an inspiring environment.
 
 ---
 
