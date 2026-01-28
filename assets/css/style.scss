@@ -33,12 +33,13 @@
 }
 
 .project-tagline {
-  font-size: 1.3rem;
-  font-weight: 500;
-  opacity: 1;
+  font-size: 1.3rem !important;
+  font-weight: 500 !important;
+  opacity: 1 !important;
   margin-top: 1rem;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
-  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3) !important;
+  color: #ffffff !important;
+  background: none !important;
 }
 
 /* Main Content Area */
@@ -137,44 +138,53 @@
 }
 
 /* Tables */
-table {
-  border-collapse: separate;
-  border-spacing: 0;
+.main-content table {
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
   width: 100% !important;
   max-width: 100% !important;
-  margin: 1.5rem 0;
+  margin: 1.5rem 0 !important;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   table-layout: fixed !important;
+  display: table !important;
 }
 
-table th:first-child,
-table td:first-child {
-  width: 25% !important;
+.main-content table th,
+.main-content table td {
+  box-sizing: border-box !important;
 }
 
-table th:last-child,
-table td:last-child {
-  width: 75% !important;
+.main-content table th:first-child,
+.main-content table td:first-child {
+  width: 200px !important;
+  min-width: 200px !important;
+  max-width: 200px !important;
 }
 
-thead {
+.main-content table th:last-child,
+.main-content table td:last-child {
+  width: auto !important;
+}
+
+.main-content thead {
   background: linear-gradient(to right, var(--primary-blue), var(--secondary-blue));
   color: white;
 }
 
-th {
-  padding: 1rem 1.2rem;
+.main-content th {
+  padding: 1rem 1.2rem !important;
   font-weight: 600;
   text-align: left;
   font-size: 1.05rem;
 }
 
-td {
-  padding: 0.9rem 1.2rem;
+.main-content td {
+  padding: 0.9rem 1.2rem !important;
   border-bottom: 1px solid var(--border-color);
   background: white;
+  vertical-align: top;
 }
 
 tr:last-child td {
