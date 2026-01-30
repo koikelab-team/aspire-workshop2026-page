@@ -20,7 +20,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 - **Presentation Format:** 15-minute presentation followed by 5-minute Q&A session for postdocs and students
 - **Accommodation:** All participants will stay at Karuizawa Prince Hotel West to facilitate networking and collaboration
   - Single Room: ¥64,300 / 2 nights
-  - Double Room: ¥79,800 / 2 nights
+  - Twin Room: ¥79,800 / 2 nights (39,900 per person)
 - **Attendance Fee:** Approximately ¥16,000 (TBA) per person will be charged separately, including the Night Session on March.13
 - **Language:** Presentations and discussions will be conducted in English
 
