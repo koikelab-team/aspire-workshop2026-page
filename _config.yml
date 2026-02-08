@@ -4,5 +4,6 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 
 show_downloads: false
+repository: koikelab-team/aspire-workshop2026-page
 github:
   is_project_page: false

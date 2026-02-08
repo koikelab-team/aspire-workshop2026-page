@@ -17,6 +17,15 @@
   --dark-text: #2c3e50;
   --light-gray: #f8f9fa;
   --border-color: #d0e3f0;
+
+  /* Session type colors */
+  --session-travel: #6b7b8d;
+  --session-meal: #27ae60;
+  --session-keynote: #d4a017;
+  --session-presentation: #2e86de;
+  --session-social: #8e44ad;
+  --session-ceremony: #1a3c6e;
+  --session-free: #16a085;
 }
 
 /* Enhanced Header */
@@ -137,62 +146,225 @@
   border-radius: 6px;
 }
 
-/* Tables */
-.main-content table {
-  border-collapse: separate !important;
-  border-spacing: 0 !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 1.5rem 0 !important;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  table-layout: fixed !important;
-  display: table !important;
+/* Badges */
+.badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+  color: #fff;
+}
+.badge--travel       { background: var(--session-travel); }
+.badge--meal         { background: var(--session-meal); }
+.badge--keynote      { background: var(--session-keynote); }
+.badge--presentation { background: var(--session-presentation); }
+.badge--social       { background: var(--session-social); }
+.badge--ceremony     { background: var(--session-ceremony); }
+.badge--free         { background: var(--session-free); }
+
+/* Schedule Tabs */
+.schedule-tabs {
+  margin: 1.5rem 0 2rem;
 }
 
-.main-content table th,
-.main-content table td {
-  box-sizing: border-box !important;
+.tab-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0;
 }
 
-.main-content table th:first-child,
-.main-content table td:first-child {
-  width: 200px !important;
-  min-width: 200px !important;
-  max-width: 200px !important;
-}
-
-.main-content table th:last-child,
-.main-content table td:last-child {
-  width: auto !important;
-}
-
-.main-content thead {
-  background: linear-gradient(to right, var(--primary-blue), var(--secondary-blue));
-  color: white;
-}
-
-.main-content th {
-  padding: 1rem 1.2rem !important;
+.tab-btn {
+  padding: 0.6rem 1.4rem;
+  border: none;
+  background: var(--light-gray);
+  color: var(--dark-text);
+  font-size: 0.95rem;
   font-weight: 600;
-  text-align: left;
-  font-size: 1.05rem;
-}
-
-.main-content td {
-  padding: 0.9rem 1.2rem !important;
-  border-bottom: 1px solid var(--border-color);
-  background: white;
-  vertical-align: top;
-}
-
-tr:last-child td {
+  cursor: pointer;
+  border-radius: 6px 6px 0 0;
+  transition: background 0.2s, color 0.2s;
+  position: relative;
+  bottom: -2px;
+  border: 2px solid transparent;
   border-bottom: none;
 }
 
-tbody tr:hover {
+.tab-btn:hover {
   background: var(--light-blue);
+}
+
+.tab-btn.active {
+  background: #fff;
+  color: var(--primary-blue);
+  border-color: var(--border-color);
+  border-bottom: 2px solid #fff;
+}
+
+.day-content {
+  display: none;
+}
+
+.day-content.active {
+  display: block;
+}
+
+/* Timeline */
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+  margin: 1rem 0;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--border-color);
+}
+
+.timeline-entry {
+  position: relative;
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 0.75rem;
+}
+
+.timeline-entry::before {
+  content: '';
+  position: absolute;
+  left: -2rem;
+  top: 0.9rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--border-color);
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px var(--border-color);
+  z-index: 1;
+}
+
+.timeline-time {
+  flex: 0 0 110px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #555;
+  padding-top: 0.65rem;
+  text-align: right;
+}
+
+.timeline-card {
+  flex: 1;
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.7rem 1rem;
+  border-left: 3px solid var(--border-color);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.timeline-card:hover {
+  transform: translateX(3px);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.timeline-card-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--dark-text);
+}
+
+.timeline-card-detail {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.2rem;
+}
+
+/* Timeline entry type colors */
+.timeline-entry--travel::before  { background: var(--session-travel); box-shadow: 0 0 0 2px var(--session-travel); }
+.timeline-entry--travel .timeline-card { border-left-color: var(--session-travel); background: rgba(107,123,141,0.05); }
+
+.timeline-entry--meal::before  { background: var(--session-meal); box-shadow: 0 0 0 2px var(--session-meal); }
+.timeline-entry--meal .timeline-card { border-left-color: var(--session-meal); background: rgba(39,174,96,0.05); }
+
+.timeline-entry--keynote::before  { background: var(--session-keynote); box-shadow: 0 0 0 2px var(--session-keynote); }
+.timeline-entry--keynote .timeline-card { border-left-color: var(--session-keynote); background: rgba(212,160,23,0.06); }
+
+.timeline-entry--presentation::before  { background: var(--session-presentation); box-shadow: 0 0 0 2px var(--session-presentation); }
+.timeline-entry--presentation .timeline-card { border-left-color: var(--session-presentation); background: rgba(46,134,222,0.05); }
+
+.timeline-entry--social::before  { background: var(--session-social); box-shadow: 0 0 0 2px var(--session-social); }
+.timeline-entry--social .timeline-card { border-left-color: var(--session-social); background: rgba(142,68,173,0.05); }
+
+.timeline-entry--ceremony::before  { background: var(--session-ceremony); box-shadow: 0 0 0 2px var(--session-ceremony); }
+.timeline-entry--ceremony .timeline-card { border-left-color: var(--session-ceremony); background: rgba(26,60,110,0.06); }
+
+.timeline-entry--free::before  { background: var(--session-free); box-shadow: 0 0 0 2px var(--session-free); }
+.timeline-entry--free .timeline-card { border-left-color: var(--session-free); background: rgba(22,160,133,0.05); }
+
+/* Speaker Cards */
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.speaker-card {
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.speaker-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 18px rgba(30,80,144,0.12);
+}
+
+.speaker-photo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: var(--light-blue);
+  margin: 0 auto 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent-blue);
+  font-size: 2rem;
+  border: 3px solid var(--border-color);
+}
+
+.speaker-name {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--primary-blue);
+  margin-bottom: 0.3rem;
+}
+
+.speaker-affiliation {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.speaker-talk {
+  font-size: 0.85rem;
+  color: var(--dark-text);
+  font-style: italic;
 }
 
 /* Section Headers */
@@ -336,6 +508,53 @@ a:hover {
 
   .logo-container {
     gap: 1rem;
+  }
+
+  /* Timeline mobile */
+  .timeline {
+    padding-left: 1.2rem;
+  }
+
+  .timeline-entry {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .timeline-time {
+    text-align: left;
+    flex: none;
+    padding-top: 0;
+    font-size: 0.8rem;
+  }
+
+  /* Tabs mobile */
+  .tab-buttons {
+    flex-direction: column;
+    border-bottom: none;
+    gap: 0.3rem;
+  }
+
+  .tab-btn {
+    border-radius: 6px;
+    bottom: 0;
+    border: 2px solid var(--border-color);
+  }
+
+  .tab-btn.active {
+    border-color: var(--primary-blue);
+    border-bottom: 2px solid var(--primary-blue);
+  }
+
+  /* Speaker grid mobile */
+  .speaker-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .speaker-grid {
+    grid-template-columns: 1fr;
   }
 }
 
