@@ -16,6 +16,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 
 ### Key Information
 
+- **Venue:**  Karuizawa Prince Hotel West, International Conventional Hall "Asama" (浅間)
 - **Transportation:** Complimentary charter bus service between Institute of Science Tokyo (Ookayama Campus) and Karuizawa Prince Hotel
 - **Presentation Format:** 15-minute presentation followed by 5-minute Q&A session for postdocs and students
 - **Accommodation:** All participants will stay at Karuizawa Prince Hotel West to facilitate networking and collaboration
