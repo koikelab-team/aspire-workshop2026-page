@@ -66,7 +66,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">13:45–14:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Opening Remarks</div>
-          <div class="timeline-card-detail">Prof. Hideki Koike (Science Tokyo)</div>
+          <div class="timeline-card-detail">Hideki Koike (Institute of Science Tokyo)</div>
         </div>
       </div>
       <!-- Session 1: Speakers 1–4 -->
@@ -88,13 +88,13 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">14:40–15:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Toward Cross-Agent 4D Interaction Generation</div>
-          <div class="timeline-card-detail">Yichen Peng (Science Tokyo)</div>
+          <div class="timeline-card-detail">Yichen Peng (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">15:00–15:20</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Comparing Partially-Stabilized and Skeletal Reference Frames for Intuitive Hand Guidance Using Wrist and Ankle Haptics</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Comparing Partially-Stabilized and Skeletal Reference Frames for Intuitive Hand Guidance</div>
           <div class="timeline-card-detail">Takashige Suzuki (University of Tokyo)</div>
         </div>
       </div>
@@ -116,7 +116,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">15:55–16:15</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> A Progressive Training Method for Sports Skill Acquisition</div>
-          <div class="timeline-card-detail">Chen-Chieh Liao (Science Tokyo)</div>
+          <div class="timeline-card-detail">Chen-Chieh Liao (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -171,7 +171,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">14:20–14:40</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Attention Guidance Using Saccade-Aware Cues</div>
-          <div class="timeline-card-detail">Masahiro Nara (Science Tokyo)</div>
+          <div class="timeline-card-detail">Masahiro Nara (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -206,7 +206,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">16:05–16:25</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
-          <div class="timeline-card-detail">Ryusuke Miyazaki (Science Tokyo)</div>
+          <div class="timeline-card-detail">Ryusuke Miyazaki (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -252,7 +252,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">09:10–09:30</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations</div>
-          <div class="timeline-card-detail">Jyun-ting Song (Science Tokyo)</div>
+          <div class="timeline-card-detail">Jyun-ting Song (Carnegie Mellon University)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -266,14 +266,14 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">09:50–10:10</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Track Understand and Augment Human States for Motor Skill Acquisition</div>
-          <div class="timeline-card-detail">Ruofan Liu (Science Tokyo)</div>
+          <div class="timeline-card-detail">Ruofan Liu (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">10:10–10:30</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models</div>
-          <div class="timeline-card-detail">Toshihiro Hirano (Science Tokyo)</div>
+          <div class="timeline-card-detail">Toshihiro Hirano (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
@@ -287,7 +287,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">10:45–11:05</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Towards Multimodal Interactive Intelligence in Sensing, Understanding and Feedback</div>
-          <div class="timeline-card-detail">Erwin Wu (Science Tokyo)</div>
+          <div class="timeline-card-detail">Erwin Wu (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
