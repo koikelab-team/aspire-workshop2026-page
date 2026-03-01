@@ -1,10 +1,18 @@
 ---
-title: "ASPIRE Workshop 2026 (Karuizawa)"
+title: "ASPIRE Workshop 2026"
 ---
+
+<div class="logo-bar">
+  <img src="assets/images/jst-logo.png" alt="JST">
+  <img src="assets/images/aspire-logo.png" alt="ASPIRE">
+  <img src="assets/images/science-tokyo-logo.png" alt="Institute of Science Tokyo">
+</div>
 
 <div class="hero-section" markdown="1">
 
-## Welcome to ASPIRE Workshop 2026
+## Welcome to Karuizawa!
+
+![Karuizawa Prince Hotel](https://www.princehotels.com/the-prince-karuizawa/wp-content/uploads/sites/29/2019/06/phk%E3%83%BB%EF%BD%BFg.jpg)
 
 The ASPIRE Workshop brings together leading researchers and participating groups to share recent progress, foster collaboration, and advance cutting-edge research in our field.
 
@@ -31,10 +39,6 @@ The ASPIRE Workshop brings together leading researchers and participating groups
 
 ## Program Schedule
 
-<div class="alert-box" markdown="1">
-**Note:** The schedule below is a draft and subject to change. Final times and speaker assignments will be confirmed once all travel arrangements are finalized.
-</div>
-
 <div class="schedule-tabs">
   <div class="tab-buttons">
     <button class="tab-btn active" data-day="day1">Day 1 — Mar 12</button>
@@ -47,48 +51,86 @@ The ASPIRE Workshop brings together leading researchers and participating groups
     <h3>Day 1 — Thursday, March 12</h3>
     <div class="timeline">
       <div class="timeline-entry timeline-entry--travel">
-        <div class="timeline-time">9:30–</div>
+        <div class="timeline-time">9:30–13:00</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--travel">Travel</span> Charter bus departs from Science Tokyo</div>
+          <div class="timeline-card-title"><span class="badge badge--travel">Travel</span> Charter bus departs from Science Tokyo, arrives at Karuizawa Prince Hotel</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">12:00–12:30</div>
-        <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--meal">Check-in</span> Arrival &amp; check-in at Karuizawa Prince Hotel</div>
-        </div>
-      </div>
-      <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">12:30–13:30</div>
+        <div class="timeline-time">13:00–13:45</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--meal">Lunch</span> Welcome Lunch &amp; Registration</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--ceremony">
-        <div class="timeline-time">13:30–13:45</div>
+        <div class="timeline-time">13:45–14:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Opening Remarks</div>
-          <div class="timeline-card-detail">Prof. Hideki Koike</div>
+          <div class="timeline-card-detail">Prof. Hideki Koike (Science Tokyo)</div>
+        </div>
+      </div>
+      <!-- Session 1: Speakers 1–4 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:00–14:20</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Exploring the Social Function of AI in Workplace and Relational Communication</div>
+          <div class="timeline-card-detail">Chiran Yang (University of Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">13:45–15:15</div>
+        <div class="timeline-time">14:20–14:40</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 1: Research Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> TBD</div>
+          <div class="timeline-card-detail">Tor Salve Dalsgaard (University of Copenhagen)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:40–15:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Toward Cross-Agent 4D Interaction Generation</div>
+          <div class="timeline-card-detail">Yichen Peng (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:00–15:20</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Comparing Partially-Stabilized and Skeletal Reference Frames for Intuitive Hand Guidance Using Wrist and Ankle Haptics</div>
+          <div class="timeline-card-detail">Takashige Suzuki (University of Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">15:15–15:30</div>
+        <div class="timeline-time">15:20–15:35</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
         </div>
       </div>
+      <!-- Session 2: Speakers 5–8 -->
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">15:30–17:30</div>
+        <div class="timeline-time">15:35–15:55</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 2: Research Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Effects of Agents and Avatars on Human Memory</div>
+          <div class="timeline-card-detail">Takato Mizuho (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:55–16:15</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> A Progressive Training Method for Sports Skill Acquisition</div>
+          <div class="timeline-card-detail">Chen-Chieh Liao (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:15–16:35</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> TBD</div>
+          <div class="timeline-card-detail">Xinyu Chen (University of Hamburg)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:35–16:55</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Exploring Thermal Contact Potentials for Hand–Object Interaction Refinement</div>
+          <div class="timeline-card-detail">Kohei Miura (Osaka University)</div>
         </div>
       </div>
     </div>
@@ -99,46 +141,89 @@ The ASPIRE Workshop brings together leading researchers and participating groups
     <h3>Day 2 — Friday, March 13</h3>
     <div class="timeline">
       <div class="timeline-entry timeline-entry--free">
-        <div class="timeline-time">09:00–12:00</div>
+        <div class="timeline-time">–13:30</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--free">Free Time</span> Individual Discussions &amp; Collaboration Planning</div>
         </div>
       </div>
-      <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">12:00–13:30</div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">13:30–13:40</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--meal">Lunch</span> Lunch Break</div>
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Day 2 Opening</div>
         </div>
       </div>
-      <div class="timeline-entry timeline-entry--keynote">
-        <div class="timeline-time">13:30–14:00</div>
+      <!-- Session 3: Speakers 9–12 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">13:40–14:00</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--keynote">Keynote</span> Keynote Talk</div>
-          <div class="timeline-card-detail">Speaker TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Toward Intelligent Digital Twins: Perception Generation and Applications</div>
+          <div class="timeline-card-detail">Qi Feng (Waseda University)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">14:00–15:30</div>
+        <div class="timeline-time">14:00–14:20</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 3: Research Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> TBD</div>
+          <div class="timeline-card-detail">Jesse Grootjen (LMU Munich)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:20–14:40</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Attention Guidance Using Saccade-Aware Cues</div>
+          <div class="timeline-card-detail">Masahiro Nara (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:40–15:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> TBD</div>
+          <div class="timeline-card-detail">Isabella Mika Taninaka (Osaka University)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">15:30–15:45</div>
+        <div class="timeline-time">15:00–15:25</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
         </div>
       </div>
+      <!-- Session 4: Speakers 13–16 -->
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">15:45–17:30</div>
+        <div class="timeline-time">15:25–15:45</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 4: Research Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Human-Centered XR for Time-Critical Flood Crisis Management</div>
+          <div class="timeline-card-detail">Solmaz Goodarzi (University of Hamburg)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:45–16:05</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> TBD</div>
+          <div class="timeline-card-detail">David Steeven Villa Salazar (LMU Munich)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:05–16:25</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
+          <div class="timeline-card-detail">Ryusuke Miyazaki (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:25–16:45</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Target Image Adaptation in Projection Mapping Using Learnable Contrast and Brightness</div>
+          <div class="timeline-card-detail">Thanapong Sommart (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">16:45–17:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Closing</span> Day 2 Closing</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--free">
-        <div class="timeline-time">17:15–18:00</div>
+        <div class="timeline-time">17:00–18:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--free">Free Time</span> Break &amp; Free Time</div>
         </div>
@@ -146,7 +231,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--social">
         <div class="timeline-time">18:00–21:00</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--social">Social</span> Free Discussion &amp; Networking Dinner</div>
+          <div class="timeline-card-title"><span class="badge badge--social">Evening Session</span> Free Discussion &amp; Networking Dinner</div>
         </div>
       </div>
     </div>
@@ -156,18 +241,39 @@ The ASPIRE Workshop brings together leading researchers and participating groups
   <div class="day-content" id="day3">
     <h3>Day 3 — Saturday, March 14</h3>
     <div class="timeline">
-      <div class="timeline-entry timeline-entry--keynote">
-        <div class="timeline-time">08:30–09:00</div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">09:00–09:10</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--keynote">Keynote</span> Keynote Talk</div>
-          <div class="timeline-card-detail">Speaker TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Day 3 Opening</div>
+        </div>
+      </div>
+      <!-- Session 5: Speakers 17–20 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">09:10–09:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations</div>
+          <div class="timeline-card-detail">Jyun-ting Song (Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">09:00–10:30</div>
+        <div class="timeline-time">09:30–09:50</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 5: Research Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Toward Embodied AI that Promotes Trust Between Visually Impaired and Sighted Individuals</div>
+          <div class="timeline-card-detail">Sotaro Yokoi (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">09:50–10:10</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Track Understand and Augment Human States for Motor Skill Acquisition</div>
+          <div class="timeline-card-detail">Ruofan Liu (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">10:10–10:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models</div>
+          <div class="timeline-card-detail">Toshihiro Hirano (Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
@@ -176,21 +282,43 @@ The ASPIRE Workshop brings together leading researchers and participating groups
           <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
         </div>
       </div>
+      <!-- Session 6: Speakers 21–24 -->
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">10:45–12:15</div>
+        <div class="timeline-time">10:45–11:05</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Presentations</span> Session 6: Final Presentations</div>
-          <div class="timeline-card-detail">Speakers TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Towards Multimodal Interactive Intelligence in Sensing, Understanding and Feedback</div>
+          <div class="timeline-card-detail">Erwin Wu (Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:05–11:25</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Shadowless Projection Mapping with Large-Format Fresnel Lens</div>
+          <div class="timeline-card-detail">Hiroki Kusuyama (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:25–11:45</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Enhancing Material Appearance in Projection Mapping</div>
+          <div class="timeline-card-detail">Masaki Takeuchi (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:45–12:05</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> TBD</div>
+          <div class="timeline-card-detail">Bowen Yuan (University of South Australia)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--ceremony">
-        <div class="timeline-time">12:15–12:30</div>
+        <div class="timeline-time">12:05–12:15</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--ceremony">Closing</span> Closing Remarks &amp; Group Photo</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">12:30–13:30</div>
+        <div class="timeline-time">12:15–13:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--meal">Lunch</span> Farewell Lunch</div>
         </div>
@@ -199,7 +327,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">13:30–</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--travel">Travel</span> Charter bus returns to Tokyo</div>
-          <div class="timeline-card-detail">Departure time TBA</div>
+
         </div>
       </div>
     </div>
@@ -219,40 +347,96 @@ document.querySelectorAll('.tab-btn').forEach(function(btn) {
     document.getElementById(btn.getAttribute('data-day')).classList.add('active');
   });
 });
+// Add project subtitle above tagline, venue info below tagline
+var tagline = document.querySelector('.project-tagline');
+if (tagline) {
+  var projSubtitle = document.createElement('p');
+  projSubtitle.className = 'header-project-subtitle';
+  projSubtitle.textContent = 'Establishment of an International Collaborative Research Network on Human and Spatial Augmentation';
+  tagline.parentNode.insertBefore(projSubtitle, tagline);
+  var venue = document.createElement('p');
+  venue.className = 'header-subtitle';
+  venue.textContent = 'Karuizawa Prince Hotel West \u00B7 Nagano, Japan \u00B7 JST Aspire Funded';
+  tagline.parentNode.insertBefore(venue, tagline.nextSibling);
+}
 </script>
 
 ---
 
-## Speakers
+## ASPIRE Project Members
 
-<div class="alert-box" markdown="1">
-**Coming soon:** Speaker details will be announced once all presentations are confirmed.
+<div class="member-list">
+  <div class="member-item">
+    <div class="member-name">Albrecht Schmidt</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">LMU Munich</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Barry Brown</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of Copenhagen</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Daisuke Iwai</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Osaka University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Erwin Wu</div>
+    <div class="member-position">Research Associate Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Frank Steinicke</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of Hamburg</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Hideaki Kuzuoka</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">The University of Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Hideki Koike</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Kris Kitani</div>
+    <div class="member-position">Research Associate Professor</div>
+    <div class="member-affiliation">Carnegie Mellon University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Mark Billinghurst</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of South Australia</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Shio Miyafuji</div>
+    <div class="member-position">Assistant Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Takuji Narumi</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">The University of Tokyo</div>
+  </div>
 </div>
 
-<div class="speaker-grid">
-  <div class="speaker-card">
-    <div class="speaker-photo">?</div>
-    <div class="speaker-name">Keynote Speaker 1</div>
-    <div class="speaker-affiliation">Affiliation TBD</div>
-    <div class="speaker-talk">Talk title to be announced</div>
+---
+
+## Invited Guests
+
+<div class="member-list">
+  <div class="member-item">
+    <div class="member-name">Shigeo Morishima</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Waseda University</div>
   </div>
-  <div class="speaker-card">
-    <div class="speaker-photo">?</div>
-    <div class="speaker-name">Keynote Speaker 2</div>
-    <div class="speaker-affiliation">Affiliation TBD</div>
-    <div class="speaker-talk">Talk title to be announced</div>
-  </div>
-  <div class="speaker-card">
-    <div class="speaker-photo">?</div>
-    <div class="speaker-name">Invited Speaker</div>
-    <div class="speaker-affiliation">Affiliation TBD</div>
-    <div class="speaker-talk">Talk title to be announced</div>
-  </div>
-  <div class="speaker-card">
-    <div class="speaker-photo">?</div>
-    <div class="speaker-name">Invited Speaker</div>
-    <div class="speaker-affiliation">Affiliation TBD</div>
-    <div class="speaker-talk">Talk title to be announced</div>
+  <div class="member-item">
+    <div class="member-name">Yuta Itoh</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
   </div>
 </div>
 
@@ -270,5 +454,5 @@ document.querySelectorAll('.tab-btn').forEach(function(btn) {
 
 <div class="site-footer">
   <p><strong>ASPIRE Workshop 2026</strong> · Hosted by Koike Lab, Institute of Science Tokyo</p>
-  <p><em>Last updated: January 2026</em></p>
+  <p><em>Last updated: March 2026</em></p>
 </div>
