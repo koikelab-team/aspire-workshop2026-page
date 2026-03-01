@@ -163,7 +163,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">14:00–14:20</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> From Shared Attention to Human-AI Collaboration</div>
           <div class="timeline-card-detail">Jesse Grootjen (LMU Munich)</div>
         </div>
       </div>
