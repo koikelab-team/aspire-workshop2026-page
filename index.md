@@ -392,6 +392,11 @@ if (tagline) {
     <div class="member-affiliation">University of Hamburg</div>
   </div>
   <div class="member-item">
+    <div class="member-name">Gordon Wetzstein</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">Stanford University</div>
+  </div>
+  <div class="member-item">
     <div class="member-name">Hideaki Kuzuoka</div>
     <div class="member-position">Professor</div>
     <div class="member-affiliation">The University of Tokyo</div>
