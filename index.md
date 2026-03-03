@@ -80,7 +80,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">14:20–14:40</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span>  Designing for Sensory Experiences </div>
           <div class="timeline-card-detail">Tor Salve Dalsgaard (University of Copenhagen)</div>
         </div>
       </div>
@@ -122,7 +122,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">16:15–16:35</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures</div>
           <div class="timeline-card-detail">Xinyu Chen (University of Hamburg)</div>
         </div>
       </div>
