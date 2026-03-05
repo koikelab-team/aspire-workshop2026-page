@@ -286,8 +286,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">10:45–11:05</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Towards Multimodal Interactive Intelligence in Sensing, Understanding and Feedback</div>
-          <div class="timeline-card-detail">Erwin Wu (Institute of Science Tokyo)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Enhancing Personalized Vision Through AR and Metaverse</div>
+          <div class="timeline-card-detail">Yuichi Hiroi (Cluster Metaverse La)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
