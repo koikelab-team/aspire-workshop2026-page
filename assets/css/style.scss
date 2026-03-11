@@ -177,14 +177,15 @@
   border-radius: 3px;
   margin-right: 0.4rem;
   vertical-align: middle;
-  color: #fff;
+  color: #fff !important;
 }
-.badge--travel       { background: var(--session-travel); }
-.badge--meal         { background: var(--session-meal); }
-.badge--presentation { background: var(--session-presentation); }
-.badge--social       { background: var(--session-social); }
-.badge--ceremony     { background: var(--session-ceremony); }
-.badge--free         { background: var(--session-free); }
+.badge--travel       { background: var(--session-travel) !important; }
+.badge--meal         { background: var(--session-meal) !important; }
+.badge--presentation { background: var(--session-presentation) !important; }
+.badge--social       { background: var(--session-social) !important; }
+.badge--keynote      { background: #b8860b !important; }
+.badge--ceremony     { background: var(--session-ceremony) !important; }
+.badge--free         { background: var(--session-free) !important; }
 
 /* Schedule Tabs */
 .schedule-tabs {
@@ -308,6 +309,9 @@
 
 .timeline-entry--social::before  { background: var(--session-social); box-shadow: 0 0 0 1px var(--session-social); }
 .timeline-entry--social .timeline-card { border-left-color: var(--session-social); }
+
+.timeline-entry--keynote::before  { background: var(--session-ceremony); box-shadow: 0 0 0 1px var(--session-ceremony); }
+.timeline-entry--keynote .timeline-card { border-left-color: var(--session-ceremony); }
 
 .timeline-entry--ceremony::before  { background: var(--session-ceremony); box-shadow: 0 0 0 1px var(--session-ceremony); }
 .timeline-entry--ceremony .timeline-card { border-left-color: var(--session-ceremony); }
