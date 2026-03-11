@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ASPIRE Workshop 2026</title>
+  <style>
+/* === Cayman Theme Base CSS === */
+html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+audio, canvas, progress, video { display: inline-block; vertical-align: baseline; }
+audio:not([controls]) { display: none; height: 0; }
+[hidden], template { display: none; }
+a { background-color: transparent; }
+a:active, a:hover { outline: 0; }
+abbr[title] { border-bottom: 1px dotted; }
+b, strong { font-weight: bold; }
+dfn { font-style: italic; }
+h1 { font-size: 2em; margin: 0.67em 0; }
+mark { background: #ff0; color: #000; }
+small { font-size: 80%; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+img { border: 0; }
+svg:not(:root) { overflow: hidden; }
+figure { margin: 1em 40px; }
+hr { box-sizing: content-box; height: 0; }
+pre { overflow: auto; }
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0; }
+button { overflow: visible; }
+button, select { text-transform: none; }
+button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer; }
+button[disabled], html input[disabled] { cursor: default; }
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+input { line-height: normal; }
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0; }
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
+input[type="search"] { -webkit-appearance: textfield; box-sizing: content-box; }
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
+fieldset { border: 1px solid #c0c0c0; margin: 0 2px; padding: 0.35em 0.625em 0.75em; }
+legend { border: 0; padding: 0; }
+textarea { overflow: auto; }
+optgroup { font-weight: bold; }
+table { border-collapse: collapse; border-spacing: 0; }
+td, th { padding: 0; }
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight .cm { color: #999988; font-style: italic; }
+.highlight .cp { color: #999999; font-weight: bold; }
+.highlight .c1 { color: #999988; font-style: italic; }
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic; }
+.highlight .c, .highlight .cd { color: #999988; font-style: italic; }
+.highlight .err { color: #a61717; background-color: #e3d2d2; }
+.highlight .gd { color: #000000; background-color: #ffdddd; }
+.highlight .ge { color: #000000; font-style: italic; }
+.highlight .gr { color: #aa0000; }
+.highlight .gh { color: #999999; }
+.highlight .gi { color: #000000; background-color: #ddffdd; }
+.highlight .go { color: #888888; }
+.highlight .gp { color: #555555; }
+.highlight .gs { font-weight: bold; }
+.highlight .gu { color: #aaaaaa; }
+.highlight .gt { color: #aa0000; }
+.highlight .kc { color: #000000; font-weight: bold; }
+.highlight .kd { color: #000000; font-weight: bold; }
+.highlight .kn { color: #000000; font-weight: bold; }
+.highlight .kp { color: #000000; font-weight: bold; }
+.highlight .kr { color: #000000; font-weight: bold; }
+.highlight .kt { color: #445588; font-weight: bold; }
+.highlight .k, .highlight .kv { color: #000000; font-weight: bold; }
+.highlight .mf { color: #009999; }
+.highlight .mh { color: #009999; }
+.highlight .il { color: #009999; }
+.highlight .mi { color: #009999; }
+.highlight .mo { color: #009999; }
+.highlight .m, .highlight .mb, .highlight .mx { color: #009999; }
+.highlight .sb { color: #d14; }
+.highlight .sc { color: #d14; }
+.highlight .sd { color: #d14; }
+.highlight .s2 { color: #d14; }
+.highlight .se { color: #d14; }
+.highlight .sh { color: #d14; }
+.highlight .si { color: #d14; }
+.highlight .sx { color: #d14; }
+.highlight .sr { color: #009926; }
+.highlight .s1 { color: #d14; }
+.highlight .ss { color: #990073; }
+.highlight .s { color: #d14; }
+.highlight .na { color: #008080; }
+.highlight .bp { color: #999999; }
+.highlight .nb { color: #0086B3; }
+.highlight .nc { color: #445588; font-weight: bold; }
+.highlight .no { color: #008080; }
+.highlight .nd { color: #3c5d5d; font-weight: bold; }
+.highlight .ni { color: #800080; }
+.highlight .ne { color: #990000; font-weight: bold; }
+.highlight .nf { color: #990000; font-weight: bold; }
+.highlight .nl { color: #990000; font-weight: bold; }
+.highlight .nn { color: #555555; }
+.highlight .nt { color: #000080; }
+.highlight .vc { color: #008080; }
+.highlight .vg { color: #008080; }
+.highlight .vi { color: #008080; }
+.highlight .nv { color: #008080; }
+.highlight .ow { color: #000000; font-weight: bold; }
+.highlight .o { color: #000000; font-weight: bold; }
+.highlight .w { color: #bbbbbb; }
+.highlight { background-color: #f8f8f8; }
+* { box-sizing: border-box; }
+body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
+#skip-to-content { height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px; }
+#skip-to-content:focus { position: fixed; top: 10px; left: 10px; height: auto; width: auto; background: #e19447; outline: thick solid #e19447; }
+a { color: #1e6bb8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+.btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }
+.btn + .btn { margin-left: 1rem; }
+@media screen and (min-width: 64em) { .btn { padding: 0.75rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .btn { padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
+@media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
+  .btn + .btn { margin-top: 1rem; margin-left: 0; } }
+.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }
+@media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
+@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
+.project-name { margin-top: 0; margin-bottom: 0.1rem; }
+@media screen and (min-width: 64em) { .project-name { font-size: 3.25rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-name { font-size: 2.25rem; } }
+@media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }
+.project-tagline { margin-bottom: 2rem; font-weight: normal; opacity: 0.7; }
+@media screen and (min-width: 64em) { .project-tagline { font-size: 1.25rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }
+@media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
+.main-content { word-wrap: break-word; }
+.main-content :first-child { margin-top: 0; }
+@media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
+@media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
+.main-content kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color: #959da5; border-radius: 3px; box-shadow: inset 0 -1px 0 #959da5; color: #444d56; display: inline-block; font-size: 11px; line-height: 10px; padding: 3px 5px; vertical-align: middle; }
+.main-content img { max-width: 100%; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }
+.main-content p { margin-bottom: 1em; }
+.main-content code { padding: 2px 4px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 0.9rem; color: #567482; background-color: #f3f6fa; border-radius: 0.3rem; }
+.main-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #dce6f0; border-radius: 0.3rem; }
+.main-content pre > code { padding: 0; margin: 0; font-size: 0.9rem; color: #567482; word-break: normal; white-space: pre; background: transparent; border: 0; }
+.main-content .highlight { margin-bottom: 1rem; }
+.main-content .highlight pre { margin-bottom: 0; word-break: normal; }
+.main-content .highlight pre, .main-content pre { padding: 0.8rem; overflow: auto; font-size: 0.9rem; line-height: 1.45; border-radius: 0.3rem; -webkit-overflow-scrolling: touch; }
+.main-content pre code, .main-content pre tt { display: inline; max-width: initial; padding: 0; margin: 0; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0; }
+.main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after { content: normal; }
+.main-content ul, .main-content ol { margin-top: 0; }
+.main-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #dce6f0; }
+.main-content blockquote > :first-child { margin-top: 0; }
+.main-content blockquote > :last-child { margin-bottom: 0; }
+.main-content table { display: block; width: 100%; overflow: auto; word-break: normal; word-break: keep-all; -webkit-overflow-scrolling: touch; }
+.main-content table th { font-weight: bold; }
+.main-content table th, .main-content table td { padding: 0.5rem 1rem; border: 1px solid #e9ebec; }
+.main-content dl { padding: 0; }
+.main-content dl dt { padding: 0; margin-top: 1rem; font-size: 1rem; font-weight: bold; }
+.main-content dl dd { padding: 0; margin-bottom: 1rem; }
+.main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
+.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; }
+@media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
+@media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
+.site-footer-owner { display: block; font-weight: bold; }
+.site-footer-credits { color: #819198; }
+
+/* === ASPIRE Workshop 2026 Custom Styles === */
+:root {
+  --primary: #1e3a5f;
+  --primary-light: #2c5282;
+  --text: #333;
+  --text-muted: #666;
+  --bg-subtle: #f7f8fa;
+  --border: #e2e6ea;
+  --white: #ffffff;
+  --session-travel: #8899aa;
+  --session-meal: #5a9a6e;
+  --session-presentation: #4a7ab5;
+  --session-social: #8a6aad;
+  --session-ceremony: #3a5070;
+  --session-free: #5a9a8a;
+}
+.page-header {
+  background: var(--primary);
+  padding: 3.5rem 1rem 2.5rem;
+}
+.project-name {
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+.project-tagline {
+  font-size: 1.2rem !important;
+  font-weight: 400 !important;
+  opacity: 0.9 !important;
+  margin-top: 0.8rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  margin-bottom: 0.8rem;
+  color: #ffffff !important;
+  background: none !important;
+}
+.header-project-subtitle {
+  color: rgba(255,255,255,0.8);
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+.header-subtitle {
+  color: rgba(255,255,255,0.85);
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 0.3rem;
+}
+.main-content {
+  max-width: 1200px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text);
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.logo-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin: 0.8rem 0 0.5rem;
+  padding: 1rem 2rem;
+}
+.logo-bar img {
+  height: 50px;
+  width: auto;
+}
+.hero-section {
+  background: var(--bg-subtle);
+  border-left: 4px solid var(--primary);
+  padding: 1.8rem 2rem;
+  margin: 1.5rem 0 2.5rem;
+  border-radius: 4px;
+}
+.hero-section h2 {
+  color: var(--primary);
+  margin-top: 0;
+  font-size: 1.6rem;
+}
+.hero-section img {
+  width: 100%;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+.hero-section p {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-muted);
+}
+.info-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.8rem;
+  margin: 1.5rem 0;
+}
+.info-card h3 {
+  color: var(--primary);
+  margin-top: 0;
+  font-size: 1.4rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.2rem;
+}
+.info-card ul {
+  list-style: none;
+  padding-left: 0;
+}
+.info-card li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+.info-card li:before {
+  content: ">";
+  color: var(--primary-light);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+.alert-box {
+  background: #fefce8;
+  border-left: 3px solid #d4a017;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+.badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+  color: #fff;
+}
+.badge--travel       { background: var(--session-travel); }
+.badge--meal         { background: var(--session-meal); }
+.badge--presentation { background: var(--session-presentation); }
+.badge--social       { background: var(--session-social); }
+.badge--ceremony     { background: var(--session-ceremony); }
+.badge--free         { background: var(--session-free); }
+.schedule-tabs {
+  margin: 1.5rem 0 2rem;
+}
+.tab-buttons {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.tab-btn {
+  padding: 0.6rem 1.4rem;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: color 0.2s, border-color 0.2s;
+}
+.tab-btn:hover {
+  color: var(--primary);
+}
+.tab-btn.active {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+}
+.day-content {
+  display: none;
+}
+.day-content.active {
+  display: block;
+}
+.timeline {
+  position: relative;
+  padding-left: 2rem;
+  margin: 1rem 0;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--border);
+}
+.timeline-entry {
+  position: relative;
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+.timeline-entry::before {
+  content: '';
+  position: absolute;
+  left: -2rem;
+  top: 0.85rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--border);
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px var(--border);
+  z-index: 1;
+}
+.timeline-time {
+  flex: 0 0 110px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding-top: 0.6rem;
+  text-align: right;
+}
+.timeline-card {
+  flex: 1;
+  background: var(--white);
+  border-radius: 4px;
+  padding: 0.6rem 1rem;
+  border-left: 3px solid var(--border);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.timeline-card-title {
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--text);
+}
+.timeline-card-detail {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.15rem;
+}
+.timeline-entry--travel::before  { background: var(--session-travel); box-shadow: 0 0 0 1px var(--session-travel); }
+.timeline-entry--travel .timeline-card { border-left-color: var(--session-travel); }
+.timeline-entry--meal::before  { background: var(--session-meal); box-shadow: 0 0 0 1px var(--session-meal); }
+.timeline-entry--meal .timeline-card { border-left-color: var(--session-meal); }
+.timeline-entry--presentation::before  { background: var(--session-presentation); box-shadow: 0 0 0 1px var(--session-presentation); }
+.timeline-entry--presentation .timeline-card { border-left-color: var(--session-presentation); }
+.timeline-entry--social::before  { background: var(--session-social); box-shadow: 0 0 0 1px var(--session-social); }
+.timeline-entry--social .timeline-card { border-left-color: var(--session-social); }
+.timeline-entry--ceremony::before  { background: var(--session-ceremony); box-shadow: 0 0 0 1px var(--session-ceremony); }
+.timeline-entry--ceremony .timeline-card { border-left-color: var(--session-ceremony); }
+.timeline-entry--free::before  { background: var(--session-free); box-shadow: 0 0 0 1px var(--session-free); }
+.timeline-entry--free .timeline-card { border-left-color: var(--session-free); }
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+.speaker-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.2rem;
+  text-align: center;
+}
+.speaker-photo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: var(--bg-subtle);
+  margin: 0 auto 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  border: 2px solid var(--border);
+}
+.speaker-name {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--primary);
+  margin-bottom: 0.2rem;
+}
+.speaker-affiliation {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+.speaker-talk {
+  font-size: 0.82rem;
+  color: var(--text);
+  font-style: italic;
+}
+h2 {
+  color: var(--primary) !important;
+  border-bottom: 2px solid var(--border) !important;
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.8rem;
+}
+h3 {
+  color: var(--primary) !important;
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
+}
+.member-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+.member-item {
+  padding: 0.8rem 1rem;
+  border-left: 3px solid var(--primary);
+  background: var(--bg-subtle);
+  border-radius: 0 4px 4px 0;
+}
+.member-name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--primary);
+}
+.member-info {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.member-position {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.member-affiliation {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.contact-section {
+  margin: 2rem 0;
+  line-height: 2;
+}
+.contact-section p {
+  margin: 0.5rem 0;
+}
+.contact-section strong {
+  color: var(--primary);
+}
+.site-footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0 1rem;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+a {
+  color: var(--primary-light);
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--primary);
+}
+@media screen and (max-width: 768px) {
+  .main-content {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  .project-name {
+    font-size: 2rem;
+  }
+  .logo-bar {
+    gap: 1.5rem;
+  }
+  .logo-bar img {
+    height: 35px;
+  }
+  .hero-section {
+    padding: 1.2rem;
+  }
+  .info-card {
+    padding: 1.2rem;
+  }
+  .timeline {
+    padding-left: 1.2rem;
+  }
+  .timeline-entry {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+  .timeline-time {
+    text-align: left;
+    flex: none;
+    padding-top: 0;
+    font-size: 0.78rem;
+  }
+  .tab-buttons {
+    flex-direction: column;
+    border-bottom: none;
+    gap: 0.3rem;
+  }
+  .tab-btn {
+    border-radius: 4px;
+    margin-bottom: 0;
+    border: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .tab-btn.active {
+    border-color: var(--primary);
+  }
+  .speaker-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .speaker-grid {
+    grid-template-columns: 1fr;
+  }
+  .logo-bar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+  </style>
+</head>
+<body>
+  <section class="page-header">
+    <h1 class="project-name">ASPIRE Workshop 2026</h1>
+    <h2 class="project-tagline">Mar 12&#x2013;14, 2026</h2>
+  </section>
+
+  <section class="main-content">
+
+<div class="logo-bar">
+  <img src="assets/images/jst-logo.png" alt="JST">
+  <img src="assets/images/aspire-logo.png" alt="ASPIRE">
+  <img src="assets/images/science-tokyo-logo.png" alt="Institute of Science Tokyo">
+</div>
+
+<div class="hero-section">
+
+<h2>Welcome to Karuizawa!</h2>
+
+<img src="https://www.princehotels.com/the-prince-karuizawa/wp-content/uploads/sites/29/2019/06/phk%E3%83%BB%EF%BD%BFg.jpg" alt="Karuizawa Prince Hotel">
+
+<p>The ASPIRE Workshop brings together leading researchers and participating groups to share recent progress, foster collaboration, and advance cutting-edge research in our field.</p>
+
+</div>
+
+<hr>
+
+<div class="info-card">
+
+<h3>Key Information</h3>
+
+<ul>
+<li><strong>Venue:</strong>  Karuizawa Prince Hotel West, International Conventional Hall &#x201C;Asama&#x201D; &#xFF08;&#x6D45;&#x9593;&#xFF09;</li>
+<li><strong>Transportation:</strong> Complimentary charter bus service between Institute of Science Tokyo (Ookayama Campus) and Karuizawa Prince Hotel</li>
+<li><strong>Presentation Format:</strong> 15-minute presentation followed by 5-minute Q&amp;A session for postdocs and students</li>
+<li><strong>Accommodation:</strong> All participants will stay at Karuizawa Prince Hotel West to facilitate networking and collaboration
+  <ul>
+  <li>Single Room: &#xA5;64,300 / 2 nights</li>
+  <li>Twin Room: &#xA5;79,800 / 2 nights (&#xA5;39,900 per person)</li>
+  </ul>
+</li>
+<li><strong>Attendance Fee:</strong> Approximately &#xA5;16,000 (TBA) per person will be charged separately, including the Night Session on March.13</li>
+<li><strong>Language:</strong> Presentations and discussions will be conducted in English</li>
+</ul>
+
+</div>
+
+<hr>
+
+<h2>Program Schedule</h2>
+
+<div class="schedule-tabs">
+  <div class="tab-buttons">
+    <button class="tab-btn active" data-day="day1">Day 1 &#x2014; Mar 12</button>
+    <button class="tab-btn" data-day="day2">Day 2 &#x2014; Mar 13</button>
+    <button class="tab-btn" data-day="day3">Day 3 &#x2014; Mar 14</button>
+  </div>
+
+  <!-- Day 1 -->
+  <div class="day-content active" id="day1">
+    <h3>Day 1 &#x2014; Thursday, March 12</h3>
+    <div class="timeline">
+      <div class="timeline-entry timeline-entry--travel">
+        <div class="timeline-time">9:30&#x2013;13:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--travel">Travel</span> Charter bus departs from Science Tokyo, arrives at Karuizawa Prince Hotel</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--meal">
+        <div class="timeline-time">13:00&#x2013;13:45</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--meal">Lunch</span> Welcome Lunch &amp; Registration</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">13:45&#x2013;14:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Opening Remarks</div>
+          <div class="timeline-card-detail">Hideki Koike (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <!-- Session 1: Speakers 1&#x2013;4 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:00&#x2013;14:20</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Exploring the Social Function of AI in Workplace and Relational Communication</div>
+          <div class="timeline-card-detail">Chiran Yang (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:20&#x2013;14:40</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span>  Designing for Sensory Experiences </div>
+          <div class="timeline-card-detail">Tor Salve Dalsgaard (University of Copenhagen)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:40&#x2013;15:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Toward Cross-Agent 4D Interaction Generation</div>
+          <div class="timeline-card-detail">Yichen Peng (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:00&#x2013;15:20</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Comparing Partially-Stabilized and Skeletal Reference Frames for Intuitive Hand Guidance</div>
+          <div class="timeline-card-detail">Takashige Suzuki (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--meal">
+        <div class="timeline-time">15:20&#x2013;15:35</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
+        </div>
+      </div>
+      <!-- Session 2: Speakers 5&#x2013;8 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:35&#x2013;15:55</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Effects of Agents and Avatars on Human Memory</div>
+          <div class="timeline-card-detail">Takato Mizuho (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:55&#x2013;16:15</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> A Progressive Training Method for Sports Skill Acquisition</div>
+          <div class="timeline-card-detail">Chen-Chieh Liao (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:15&#x2013;16:35</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures</div>
+          <div class="timeline-card-detail">Xinyu Chen (University of Hamburg)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:35&#x2013;16:55</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Exploring Thermal Contact Potentials for Hand&#x2013;Object Interaction Refinement</div>
+          <div class="timeline-card-detail">Kohei Miura (Osaka University)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Day 2 -->
+  <div class="day-content" id="day2">
+    <h3>Day 2 &#x2014; Friday, March 13</h3>
+    <div class="timeline">
+      <div class="timeline-entry timeline-entry--free">
+        <div class="timeline-time">&#x2013;13:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--free">Free Time</span> Individual Discussions &amp; Collaboration Planning</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">13:30&#x2013;13:40</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Day 2 Opening</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">13:40&#x2013;14:10</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Keynote</span> Keynote Speech</div>
+          <div class="timeline-card-detail">Kris Kitani (Carnegie Mellon University)</div>
+        </div>
+      </div>
+      <!-- Session 3: Speakers 9&#x2013;12 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:10&#x2013;14:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Toward Intelligent Digital Twins: Perception Generation and Applications</div>
+          <div class="timeline-card-detail">Qi Feng (Waseda University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:30&#x2013;14:50</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> From Shared Attention to Human-AI Collaboration</div>
+          <div class="timeline-card-detail">Jesse Grootjen (LMU Munich)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">14:50&#x2013;15:10</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Attention Guidance Using Saccade-Aware Cues</div>
+          <div class="timeline-card-detail">Masahiro Nara (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--meal">
+        <div class="timeline-time">15:10&#x2013;15:40</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
+        </div>
+      </div>
+      <!-- Session 4: Speakers 13&#x2013;16 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">15:40&#x2013;16:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Human-Centered XR for Time-Critical Flood Crisis Management</div>
+          <div class="timeline-card-detail">Solmaz Goodarzi (University of Hamburg)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:00&#x2013;16:20</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> TBD</div>
+          <div class="timeline-card-detail">David Steeven Villa Salazar (LMU Munich)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:20&#x2013;16:40</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
+          <div class="timeline-card-detail">Ryusuke Miyazaki (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">16:40&#x2013;17:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Target Image Adaptation in Projection Mapping Using Learnable Contrast and Brightness</div>
+          <div class="timeline-card-detail">Thanapong Sommart (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">17:00&#x2013;17:15</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Closing</span> Day 2 Closing</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--free">
+        <div class="timeline-time">17:15&#x2013;18:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--free">Free Time</span> Break &amp; Free Time</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--social">
+        <div class="timeline-time">18:00&#x2013;21:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--social">Evening Session</span> Free Discussion &amp; Networking Dinner</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Day 3 -->
+  <div class="day-content" id="day3">
+    <h3>Day 3 &#x2014; Saturday, March 14</h3>
+    <div class="timeline">
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">09:00&#x2013;09:10</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Opening</span> Day 3 Opening</div>
+        </div>
+      </div>
+      <!-- Session 5: Speakers 17&#x2013;20 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">09:10&#x2013;09:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations</div>
+          <div class="timeline-card-detail">Jyun-ting Song (Carnegie Mellon University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">09:30&#x2013;09:50</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Toward Embodied AI that Promotes Trust Between Visually Impaired and Sighted Individuals</div>
+          <div class="timeline-card-detail">Sotaro Yokoi (University of Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">09:50&#x2013;10:10</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Track Understand and Augment Human States for Motor Skill Acquisition</div>
+          <div class="timeline-card-detail">Ruofan Liu (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">10:10&#x2013;10:30</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models</div>
+          <div class="timeline-card-detail">Toshihiro Hirano (Institute of Science Tokyo)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--meal">
+        <div class="timeline-time">10:30&#x2013;10:45</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
+        </div>
+      </div>
+      <!-- Session 6: Speakers 21&#x2013;24 -->
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">10:45&#x2013;11:05</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Enhancing Personalized Vision Through AR and Metaverse</div>
+          <div class="timeline-card-detail">Yuichi Hiroi (Cluster Metaverse La)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:05&#x2013;11:25</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Shadowless Projection Mapping with Large-Format Fresnel Lens</div>
+          <div class="timeline-card-detail">Hiroki Kusuyama (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:25&#x2013;11:45</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Enhancing Material Appearance in Projection Mapping</div>
+          <div class="timeline-card-detail">Masaki Takeuchi (Osaka University)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--presentation">
+        <div class="timeline-time">11:45&#x2013;12:05</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Dependency-aware Non Linear Task Guidance in Augmented Reality</div>
+          <div class="timeline-card-detail">Bowen Yuan (University of South Australia)</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--ceremony">
+        <div class="timeline-time">12:05&#x2013;12:15</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--ceremony">Closing</span> Closing Remarks &amp; Group Photo</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--meal">
+        <div class="timeline-time">12:15&#x2013;13:00</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--meal">Lunch</span> Farewell Lunch</div>
+        </div>
+      </div>
+      <div class="timeline-entry timeline-entry--travel">
+        <div class="timeline-time">13:30&#x2013;</div>
+        <div class="timeline-card">
+          <div class="timeline-card-title"><span class="badge badge--travel">Travel</span> Charter bus returns to Tokyo</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <noscript>
+    <style>.day-content { display: block !important; } .tab-buttons { display: none; }</style>
+  </noscript>
+</div>
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.tab-btn').forEach(function(b) { b.classList.remove('active'); });
+    document.querySelectorAll('.day-content').forEach(function(d) { d.classList.remove('active'); });
+    btn.classList.add('active');
+    document.getElementById(btn.getAttribute('data-day')).classList.add('active');
+  });
+});
+// Add project subtitle above tagline, venue info below tagline
+var tagline = document.querySelector('.project-tagline');
+if (tagline) {
+  var projSubtitle = document.createElement('p');
+  projSubtitle.className = 'header-project-subtitle';
+  projSubtitle.textContent = 'Establishment of an International Collaborative Research Network on Human and Spatial Augmentation';
+  tagline.parentNode.insertBefore(projSubtitle, tagline);
+  var venue = document.createElement('p');
+  venue.className = 'header-subtitle';
+  venue.textContent = 'Karuizawa Prince Hotel West \u00B7 Nagano, Japan \u00B7 JST Aspire Funded';
+  tagline.parentNode.insertBefore(venue, tagline.nextSibling);
+}
+</script>
+
+<hr>
+
+<h2>ASPIRE Project Members</h2>
+
+<div class="member-list">
+  <div class="member-item">
+    <div class="member-name">Albrecht Schmidt</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">LMU Munich</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Barry Brown</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of Copenhagen</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Daisuke Iwai</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Osaka University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Erwin Wu</div>
+    <div class="member-position">Research Associate Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Frank Steinicke</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of Hamburg</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Gordon Wetzstein</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">Stanford University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Hideaki Kuzuoka</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">The University of Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Hideki Koike</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Kris Kitani</div>
+    <div class="member-position">Research Associate Professor</div>
+    <div class="member-affiliation">Carnegie Mellon University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Mark Billinghurst</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">University of South Australia</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Shio Miyafuji</div>
+    <div class="member-position">Assistant Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Takuji Narumi</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">The University of Tokyo</div>
+  </div>
+</div>
+
+<hr>
+
+<h2>Invited Guests</h2>
+
+<div class="member-list">
+  <div class="member-item">
+    <div class="member-name">Shigeo Morishima</div>
+    <div class="member-position">Professor</div>
+    <div class="member-affiliation">Waseda University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Katsutoshi Masai</div>
+    <div class="member-position">Assistant Professor</div>
+    <div class="member-affiliation">Kyushu University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Yuta Itoh</div>
+    <div class="member-position">Associate Professor</div>
+    <div class="member-affiliation">Institute of Science Tokyo</div>
+  </div>
+</div>
+
+<hr>
+
+<h2>Contact</h2>
+
+<div class="contact-section">
+
+<p><strong>Hideki Koike:</strong> <a href="mailto:koike@c.titech.ac.jp">koike@c.titech.ac.jp</a></p>
+
+<p><strong>Erwin Wu:</strong> <a href="mailto:wu.e.aa@m.titech.ac.jp">wu.e.aa@m.titech.ac.jp</a></p>
+
+</div>
+
+<div class="site-footer">
+  <p><strong>ASPIRE Workshop 2026</strong> &middot; Hosted by Koike Lab, Institute of Science Tokyo</p>
+  <p><em>Last updated: March 2026</em></p>
+</div>
+
+  </section>
+</body>
+</html>

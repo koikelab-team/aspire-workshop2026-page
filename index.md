@@ -181,56 +181,49 @@ The ASPIRE Workshop brings together leading researchers and participating groups
           <div class="timeline-card-detail">Masahiro Nara (Institute of Science Tokyo)</div>
         </div>
       </div>
-      <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">15:10–15:30</div>
-        <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> TBD</div>
-          <div class="timeline-card-detail">Isabella Mika Taninaka (Osaka University)</div>
-        </div>
-      </div>
       <div class="timeline-entry timeline-entry--meal">
-        <div class="timeline-time">15:30–15:55</div>
+        <div class="timeline-time">15:10–15:40</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--meal">Break</span> Coffee Break</div>
         </div>
       </div>
       <!-- Session 4: Speakers 13–16 -->
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">15:55–16:15</div>
+        <div class="timeline-time">15:40–16:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Human-Centered XR for Time-Critical Flood Crisis Management</div>
           <div class="timeline-card-detail">Solmaz Goodarzi (University of Hamburg)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">16:15–16:35</div>
+        <div class="timeline-time">16:00–16:20</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> TBD</div>
           <div class="timeline-card-detail">David Steeven Villa Salazar (LMU Munich)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">16:35–16:55</div>
+        <div class="timeline-time">16:20–16:40</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
           <div class="timeline-card-detail">Ryusuke Miyazaki (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
-        <div class="timeline-time">16:55–17:15</div>
+        <div class="timeline-time">16:40–17:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Target Image Adaptation in Projection Mapping Using Learnable Contrast and Brightness</div>
           <div class="timeline-card-detail">Thanapong Sommart (Osaka University)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--ceremony">
-        <div class="timeline-time">17:15–17:30</div>
+        <div class="timeline-time">17:00–17:15</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--ceremony">Closing</span> Day 2 Closing</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--free">
-        <div class="timeline-time">17:30–18:00</div>
+        <div class="timeline-time">17:15–18:00</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--free">Free Time</span> Break &amp; Free Time</div>
         </div>
@@ -314,7 +307,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">11:45–12:05</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> TBD</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 6</span> Dependency-aware Non Linear Task Guidance in Augmented Reality</div>
           <div class="timeline-card-detail">Bowen Yuan (University of South Australia)</div>
         </div>
       </div>
@@ -444,6 +437,11 @@ if (tagline) {
     <div class="member-name">Shigeo Morishima</div>
     <div class="member-position">Professor</div>
     <div class="member-affiliation">Waseda University</div>
+  </div>
+  <div class="member-item">
+    <div class="member-name">Katsutoshi Masai</div>
+    <div class="member-position">Assistant Professor</div>
+    <div class="member-affiliation">Kyushu University</div>
   </div>
   <div class="member-item">
     <div class="member-name">Yuta Itoh</div>
