@@ -218,7 +218,7 @@ def build_page2(pdf: HandoutPDF):
     day1_s2 = [
         ("15:35-15:55", "Session 2", "Effects of Agents and Avatars on Human Memory", "Takato Mizuho (U. of Tokyo)"),
         ("15:55-16:15", "Session 2", "A Progressive Training Method for Sports Skill Acquisition", "Chen-Chieh Liao (Science Tokyo)"),
-        ("16:15-16:35", "Session 2", "Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures", "Xinyu Chen (U. of Hamburg)"),
+        ("16:15-16:35", "Session 2", "Human-Centered XR for Time-Critical Flood Crisis Management", "Solmaz Goodarzi (U. of Hamburg)"),
         ("16:35-16:55", "Session 2", "Exploring Thermal Contact Potentials for Hand-Object Interaction Refinement", "Kohei Miura (Osaka U.)"),
     ]
 
@@ -242,7 +242,7 @@ def build_page2(pdf: HandoutPDF):
     ]
     day2_break = [("15:30-16:00", "Break", "Coffee Break", "")]
     day2_s4 = [
-        ("16:00-16:20", "Session 4", "Human-Centered XR for Time-Critical Flood Crisis Management", "Solmaz Goodarzi (U. of Hamburg)"),
+        ("16:00-16:20", "Session 4", "Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures", "Xinyu Chen (U. of Hamburg)"),
         ("16:20-16:40", "Session 4", "TBD", "David Steeven Villa Salazar (LMU Munich)"),
         ("16:40-17:00", "Session 4", "Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection", "Ryusuke Miyazaki (Science Tokyo)"),
         ("17:00-17:20", "Session 4", "Target Image Adaptation in Projection Mapping Using Learnable Contrast and Brightness", "Thanapong Sommart (Osaka U.)"),

@@ -122,8 +122,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">16:15–16:35</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures</div>
-          <div class="timeline-card-detail">Xinyu Chen (University of Hamburg)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 2</span> Human-Centered XR for Time-Critical Flood Crisis Management</div>
+          <div class="timeline-card-detail">Solmaz Goodarzi (University of Hamburg)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -185,8 +185,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">16:00–16:20</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Human-Centered XR for Time-Critical Flood Crisis Management</div>
-          <div class="timeline-card-detail">Solmaz Goodarzi (University of Hamburg)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures</div>
+          <div class="timeline-card-detail">Xinyu Chen (University of Hamburg)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
