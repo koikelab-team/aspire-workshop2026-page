@@ -74,7 +74,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
         <div class="timeline-time">14:00–14:20</div>
         <div class="timeline-card">
           <div class="timeline-card-title"><span class="badge badge--presentation">Session 1</span> Exploring the Social Function of AI in Workplace and Relational Communication</div>
-          <div class="timeline-card-detail">Chiran Yang (University of Tokyo)</div>
+          <div class="timeline-card-detail">Chi-Lan Yang (University of Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">

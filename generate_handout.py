@@ -209,7 +209,7 @@ def build_page2(pdf: HandoutPDF):
         ("13:45-14:00", "Opening",     "Opening Remarks", "Hideki Koike (Institute of Science Tokyo)"),
     ]
     day1_s1 = [
-        ("14:00-14:20", "Session 1", "Exploring the Social Function of AI in Workplace and Relational Communication", "Chiran Yang (U. of Tokyo)"),
+        ("14:00-14:20", "Session 1", "Exploring the Social Function of AI in Workplace and Relational Communication", "Chi-Lan Yang (U. of Tokyo)"),
         ("14:20-14:40", "Session 1", "Designing for Sensory Experiences", "Tor Salve Dalsgaard (U. of Copenhagen)"),
         ("14:40-15:00", "Session 1", "Toward Cross-Agent 4D Interaction Generation", "Yichen Peng (Science Tokyo)"),
         ("15:00-15:20", "Session 1", "Comparing Partially-Stabilized and Skeletal Reference Frames for Intuitive Hand Guidance", "Takashige Suzuki (U. of Tokyo)"),
