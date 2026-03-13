@@ -265,7 +265,7 @@ def build_page2(pdf: HandoutPDF):
 
     day3_pre = [("09:00-09:10", "Opening", "Day 3 Opening", "")]
     day3_s5 = [
-        ("09:10-09:30", "Session 5", "Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations", "Jyun-ting Song (CMU)"),
+        ("09:10-09:30", "Session 5", "Multi-View 4D Human Reconstruction under Interaction Scenarios", "Jyun-ting Song (CMU)"),
         ("09:30-09:50", "Session 5", "Toward Embodied AI that Promotes Trust Between Visually Impaired and Sighted Individuals", "Sotaro Yokoi (U. of Tokyo)"),
         ("09:50-10:10", "Session 5", "Humanity-centered Augmentation", "David Steeven Villa Salazar (LMU Munich)"),
         ("10:10-10:30", "Session 5", "Attention Guidance Using Saccade-Aware Cues", "Masahiro Nara (Science Tokyo)"),

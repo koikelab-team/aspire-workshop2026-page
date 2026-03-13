@@ -245,7 +245,7 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">09:10–09:30</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Multi-View 4D Human Reconstruction under Interaction Scenarios</div>
           <div class="timeline-card-detail">Jyun-ting Song (Carnegie Mellon University)</div>
         </div>
       </div>
