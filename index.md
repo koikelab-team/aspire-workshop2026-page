@@ -171,8 +171,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">15:10–15:30</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> Attention Guidance Using Saccade-Aware Cues</div>
-          <div class="timeline-card-detail">Masahiro Nara (Institute of Science Tokyo)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 3</span> A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models</div>
+          <div class="timeline-card-detail">Toshihiro Hirano (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
@@ -199,8 +199,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">16:40–17:00</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models</div>
-          <div class="timeline-card-detail">Toshihiro Hirano (Institute of Science Tokyo)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
+          <div class="timeline-card-detail">Ryusuke Miyazaki (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -266,8 +266,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">10:10–10:30</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection</div>
-          <div class="timeline-card-detail">Ryusuke Miyazaki (Institute of Science Tokyo)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Attention Guidance Using Saccade-Aware Cues</div>
+          <div class="timeline-card-detail">Masahiro Nara (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--meal">
