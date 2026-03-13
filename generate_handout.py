@@ -243,7 +243,7 @@ def build_page2(pdf: HandoutPDF):
     day2_break = [("15:30-16:00", "Break", "Coffee Break", "")]
     day2_s4 = [
         ("16:00-16:20", "Session 4", "Human-Robot Collaboration Design Space for Critical Large Scale Infrastructures", "Xinyu Chen (U. of Hamburg)"),
-        ("16:20-16:40", "Session 4", "TBD", "David Steeven Villa Salazar (LMU Munich)"),
+        ("16:20-16:40", "Session 4", "Track Understand and Augment Human States for Motor Skill Acquisition", "Ruofan Liu (Science Tokyo)"),
         ("16:40-17:00", "Session 4", "Displaying Different Images Based on Gaze Movement Directions Using High-Speed Projection", "Ryusuke Miyazaki (Science Tokyo)"),
         ("17:00-17:20", "Session 4", "Target Image Adaptation in Projection Mapping Using Learnable Contrast and Brightness", "Thanapong Sommart (Osaka U.)"),
     ]
@@ -267,7 +267,7 @@ def build_page2(pdf: HandoutPDF):
     day3_s5 = [
         ("09:10-09:30", "Session 5", "Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations", "Jyun-ting Song (CMU)"),
         ("09:30-09:50", "Session 5", "Toward Embodied AI that Promotes Trust Between Visually Impaired and Sighted Individuals", "Sotaro Yokoi (U. of Tokyo)"),
-        ("09:50-10:10", "Session 5", "Track Understand and Augment Human States for Motor Skill Acquisition", "Ruofan Liu (Science Tokyo)"),
+        ("09:50-10:10", "Session 5", "Humanity-centered Augmentation", "David Steeven Villa Salazar (LMU Munich)"),
         ("10:10-10:30", "Session 5", "A Ski Coaching System Using Insole Sensors and Multimodal Large Language Models", "Toshihiro Hirano (Science Tokyo)"),
     ]
     day3_break = [("10:30-10:45", "Break", "Coffee Break", "")]

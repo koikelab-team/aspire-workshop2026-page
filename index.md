@@ -192,8 +192,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">16:20–16:40</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> TBD</div>
-          <div class="timeline-card-detail">David Steeven Villa Salazar (LMU Munich)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 4</span> Track Understand and Augment Human States for Motor Skill Acquisition</div>
+          <div class="timeline-card-detail">Ruofan Liu (Institute of Science Tokyo)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
@@ -259,8 +259,8 @@ The ASPIRE Workshop brings together leading researchers and participating groups
       <div class="timeline-entry timeline-entry--presentation">
         <div class="timeline-time">09:50–10:10</div>
         <div class="timeline-card">
-          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Track Understand and Augment Human States for Motor Skill Acquisition</div>
-          <div class="timeline-card-detail">Ruofan Liu (Institute of Science Tokyo)</div>
+          <div class="timeline-card-title"><span class="badge badge--presentation">Session 5</span> Humanity-centered Augmentation</div>
+          <div class="timeline-card-detail">David Steeven Villa Salazar (LMU Munich)</div>
         </div>
       </div>
       <div class="timeline-entry timeline-entry--presentation">
