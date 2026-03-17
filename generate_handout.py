@@ -83,7 +83,7 @@ def build_page1(pdf: HandoutPDF):
         ("Format", "15-min presentation + 5-min Q&A for postdocs and students"),
         ("Accommodation", "All participants stay at Karuizawa Prince Hotel West"),
         ("", "  * Single Room: Y64,300 / 2 nights   * Twin Room: Y79,800 / 2 nights (Y39,900 pp)"),
-        ("Attendance Fee", "Approx. Y16,000 (TBA) per person, incl. Night Session on Mar 13"),
+        ("Attendance Fee", "Y15,794 per person, incl. Night Session on Mar 13"),
         ("Language", "English"),
     ]
 
